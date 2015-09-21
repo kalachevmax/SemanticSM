@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:kalachevmax/SemanticSM.git
 	branch = master
-	commit = 92c26e42a1940b61ef240d417a6501c72eb4cf09
-	parent = 3407e073c3c9a944281c3f43ae0863cbc1c2fb4c
+	commit = e73a35f3f085e7f8526cb805bbfe65fe63003210
+	parent = 0e5b16b3d6a8422a3637cdeaa4a0f515ea510a52
 	cmdver = 0.2.3
