@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:kalachevmax/SemanticFM.git
+	branch = master
+	commit = eaf8b79584090d4712d14f237bd19bbcf0d8360d
+	parent = 2a7b965fbb9da24a7bc1cc720a3a5a629a532b22
+	cmdver = 0.2.3
