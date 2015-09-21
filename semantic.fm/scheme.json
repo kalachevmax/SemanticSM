@@ -1,0 +1,36 @@
+{
+  "name": "semantic.fm",
+
+  "buildDir": "bin",
+
+  "compilerOptions": {
+    "compilationLevel": "SIMPLE_OPTIMIZATIONS",
+    "warningLevel": "VERBOSE",
+    "language": "ECMASCRIPT5",
+    "formatting": ""
+  },
+
+  "srcDir": "lib",
+  "rootNamespace": "",
+
+  "modules": {
+    "semantic.fm": {
+      "src": [
+        "types/type.js",
+        "fm/fm.js",
+        "fm/i-accumulator.js",
+        "fm/i-iterator.js",
+        "fm/accumulator.js",
+        "fm/list/accumulator.js",
+        "fm/list/iterator.js",
+        "fm/list/list.js",
+        "fm/acts/acts.js",
+        "fm/log/log.js"
+      ]
+    }
+  },
+
+  "externs": "externs",
+
+  "deps": {}
+}
