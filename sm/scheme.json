@@ -1,0 +1,11 @@
+{
+  "name": "justSM",
+
+  "buildDir": "bin",
+  "srcDir": "lib",
+
+  "deps": {
+    "utils": "https://github.com/kalachevmax/justUtils",
+    "justFM": "https://github.com/kalachevmax/justFM"
+  }
+}
